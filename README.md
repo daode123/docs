@@ -1,2 +1,2 @@
 # docs
-Documents for daode123
+此存储库用来保存所有道德123相关的文件、著作、文献等。
